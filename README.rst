@@ -37,101 +37,101 @@ contents
 misc
 ====
 
-- https://github.com/hellerve/programming-talks
-- https://github.com/JanVanRyswyck/awesome-talks
-- https://github.com/PharkMillups/killer-talks
-- https://github.com/bolshchikov/programmer-must-see
-- https://github.com/latcraft/what2watch
-- https://github.com/CYBAI/must-watch
-- https://github.com/PixelsCamp/talks
+- `hellerve/programming-talks <https://github.com/hellerve/programming-talks>`_
+- `JanVanRyswyck/awesome-talks <https://github.com/JanVanRyswyck/awesome-talks>`_
+- `PharkMillups/killer-talks <https://github.com/PharkMillups/killer-talks>`_
+- `bolshchikov/programmer-must-see <https://github.com/bolshchikov/programmer-must-see>`_
+- `latcraft/what2watch <https://github.com/latcraft/what2watch>`_
+- `CYBAI/must-watch <https://github.com/CYBAI/must-watch>`_
+- `PixelsCamp/takls <https://github.com/PixelsCamp/talks>`_
 
 
 clojure
 =======
 
-- https://github.com/tallesl/Rich-Hickey-fanclub
-- https://github.com/aenoble/clojure-must-watch
+- `tallesl/Rich-Hickey-fanclub <https://github.com/tallesl/Rich-Hickey-fanclub>`_
+- `aenoble/clojure-must-watch <https://github.com/aenoble/clojure-must-watch>`_
 
 
 cpp
 ===
 
-- https://github.com/CppCon
+- `CppCon <https://github.com/CppCon>`_
 
 
 css
 ===
 
-- https://github.com/AllThingsSmitty/must-watch-css
+- `AllThingsSmitty/must-watch-css <https://github.com/AllThingsSmitty/must-watch-css>`_
 
 
 data science
 ============
 
-- https://github.com/kmonsoor/data-must-watch
-- https://github.com/brotchie/machine-learning-must-watch
+- `kmonsoor/data-must-watch <https://github.com/kmonsoor/data-must-watch>`_
+- `brotchie/machine-learning-must-watch <https://github.com/brotchie/machine-learning-must-watch>`_
 
 
 go
 ==
 
-- https://github.com/sauravtom/go-must-watch
-- https://github.com/golang/talks
+- `sauravtom/go-must-watch <https://github.com/sauravtom/go-must-watch>`_
+- `golang/talks <https://github.com/golang/talks>`_
 
 
 haskell
 =======
 
-- https://github.com/hzlmn/haskell-must-watch
+- `hzlmn/haskell-must-watch <https://github.com/hzlmn/haskell-must-watch>`_
 
 
 javascript
 ==========
 
-- https://github.com/bolshchikov/js-must-watch
-- https://github.com/AllThingsSmitty/must-watch-javascript
+- `bolshchikov/js-must-watch <https://github.com/bolshchikov/js-must-watch>`_
+- `AllThingsSmitty/must-watch-javascript <https://github.com/AllThingsSmitty/must-watch-javascript>`_
 
 
 movie
 =====
 
-- https://github.com/k4m4/movies-for-hackers
+- `k4m4/movies-for-hackers <https://github.com/k4m4/movies-for-hackers>`_
 
 
 php
 ===
 
-- https://github.com/phptodayorg/php-must-watch
-- https://github.com/symfony-si/symfony-must-watch
+- `phptodayorg/php-must-watch <https://github.com/phptodayorg/php-must-watch>`_
+- `symfony-si/symfony-must-watch <https://github.com/symfony-si/symfony-must-watch>`_
 
 
 python
 ======
 
-- https://github.com/PyCon
-- https://github.com/s16h/py-must-watch
-- https://gitlab.com/rosarior/django-must-watch
+- `PyCon <https://github.com/PyCon>`_
+- `s16h/py-must-watch <https://github.com/s16h/py-must-watch>`_
+- `rosarior/django-must-watch <https://gitlab.com/rosarior/django-must-watch>`_
 
 
 ruby
 ====
 
-- https://github.com/gerricchaplin/rails-must-watch
+- `gerricchaplin/rails-must-watch <https://github.com/gerricchaplin/rails-must-watch>`_
 
 
 scala
 =====
 
-- https://github.com/bodiam/scala-must-watch
+- `bodiam/scala-must-watch <https://github.com/bodiam/scala-must-watch>`_
 
 
 security
 ========
 
-- https://github.com/PaulSec/awesome-sec-talks
+- `PaulSec/awesome-sec-talks <https://github.com/PaulSec/awesome-sec-talks>`_
 
 
 swift
 =====
 
-- https://github.com/ayanonagon/talks
+- `ayanonagon/talks <https://github.com/ayanonagon/talks>`_
