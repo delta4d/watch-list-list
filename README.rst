@@ -56,7 +56,9 @@ clojure
 cpp
 ===
 
-- `CppCon <https://github.com/CppCon>`_
+- `CppCon 2014 <https://channel9.msdn.com/Events/CPP/CppCon-2014>`_
+- `CppCon 2015 <https://channel9.msdn.com/Events/CPP/CppCon-2015>`_
+- `CppCon 2016 <https://channel9.msdn.com/Events/CPP/CppCon-2016>`_
 
 
 css
